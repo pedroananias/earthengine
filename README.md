@@ -61,4 +61,3 @@ Orgizamos este documento e seus arquivos da seguinte forma, seguindo a ordem em 
 7.  Extraindo uma imagem PNG do GEE com o Pillow
 8.  Transformando uma imagem do GEE em um Dataframe utilizando Reduce Region, Numpy e Pandas
 9.  Aplicando um classificador Random Forest em uma imagem plotando o resultado com o Matplotlib
-10. Rodando um script a partir da linha de comando com argumentos (arquivo '.py')
