@@ -64,7 +64,7 @@ Orgizamos este documento da seguinte forma, iniciando a conexão com o GEE, até
 3.  Mantendo registro do tempo de execução do algoritmo com a biblioteca 'time'
 4.  Coleções, geometrias e filtros: extraindo uma imagem dos datasets do GEE em uma determinada data e local
 5.  Indices espectrais: aplicando o NDVI em uma imagem
-6.  Utilizando máscaras de água e nuvem/sombra de nuvem
+6.  Utilizando máscaras d'água e nuvem/sombra de nuvem
 7.  Extraindo uma imagem PNG do GEE com o Pillow
 8.  Transformando uma imagem do GEE em um Dataframe utilizando Reduce Region, Numpy e Pandas
-9.  Aplicando um classificador Random Forest em uma imagem plotando o resultado com o Matplotlib
+9.  Aplicando um classificador Random Forest em uma imagem e plotando o resultado com o Matplotlib
