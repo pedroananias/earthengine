@@ -1,4 +1,4 @@
-# Google Earth Engine API for Python: Introdução
+# Google Earth Engine (GEE) API for Python: Introdução
 # Versão 0.0.1
 
 Informações sobre o uso da plataforma Google Earth Engine através da linguagem Python com exemplos explicados em notebooks Jupyter.
@@ -36,6 +36,18 @@ Abaixo, são listados alguns softwares/ferramentas/IDEs disponíveis para o dese
 4.  Google Colab - Um Jupyter Notebook na nuvem! *Necessita conta @unesp.br ou @gmail.com (https://colab.research.google.com)
 5.  E tantos outros...um para cada gosto!
 
-# Indíce dos Notebooks
+# Etapas deste documento e seus arquivos
 
-Os seguintes notebooks são apresentados 
+Orgizamos este documento e seus arquivos da seguinte forma, seguindo a ordem em que seja possível realizar, desde a conexão com o GEE, até a extração de uma imagem e sua classificação usando machine learning/deep learning.
+
+1.  Primeira conexão com o Google Earth Engine API
+2.  Gravando dados em um arquivo de log com a biblioteca 'logging'
+3.  Mantendo registro do tempo de execução do algoritmo com a biblioteca 'time'
+4.  Coleções, geometrias e filtros: extraindo uma imagem dos datasets do GEE em uma determinada data e local
+5.  Indices espectrais: aplicando o NDVI em uma imagem
+6.  Média, moda e mediana: aplicando medidas de centralidade em uma coleção
+7.  Utilizando máscaras de água e nuvem/sombra de nuvem
+8.  Extraindo uma imagem PNG do GEE com o Pillow
+9.  Transformando uma imagem do GEE em um Dataframe utilizando Reduce Region, Numpy e Pandas
+10. Aplicando um classificador Random Forest em uma imagem plotando o resultado com o Matplotlib
+11. Rodando um script a partir da linha de comando com argumentos (arquivo '.py')
