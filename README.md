@@ -57,9 +57,8 @@ Orgizamos este documento e seus arquivos da seguinte forma, seguindo a ordem em 
 3.  Mantendo registro do tempo de execução do algoritmo com a biblioteca 'time'
 4.  Coleções, geometrias e filtros: extraindo uma imagem dos datasets do GEE em uma determinada data e local
 5.  Indices espectrais: aplicando o NDVI em uma imagem
-6.  Média, moda e mediana: aplicando medidas de centralidade em uma coleção
-7.  Utilizando máscaras de água e nuvem/sombra de nuvem
-8.  Extraindo uma imagem PNG do GEE com o Pillow
-9.  Transformando uma imagem do GEE em um Dataframe utilizando Reduce Region, Numpy e Pandas
-10. Aplicando um classificador Random Forest em uma imagem plotando o resultado com o Matplotlib
-11. Rodando um script a partir da linha de comando com argumentos (arquivo '.py')
+6.  Utilizando máscaras de água e nuvem/sombra de nuvem
+7.  Extraindo uma imagem PNG do GEE com o Pillow
+8.  Transformando uma imagem do GEE em um Dataframe utilizando Reduce Region, Numpy e Pandas
+9.  Aplicando um classificador Random Forest em uma imagem plotando o resultado com o Matplotlib
+10. Rodando um script a partir da linha de comando com argumentos (arquivo '.py')
