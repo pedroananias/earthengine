@@ -3,7 +3,7 @@
 
 Informações sobre o uso da plataforma Google Earth Engine através da linguagem Python com exemplos explicados em notebooks Jupyter.
 
-# Anaconda (Jupyter Notebook - Créditos: Prof. Rogério Galente Negri)
+# Anaconda (Jupyter Notebook - Créditos: Prof. Rogério Galante Negri)
 
 Suíte gratuita que fornece uma série de ferramentas dedicadas às áreas do Aprendizado de Máquina e Ciência de Dados, além de uso geral
 
