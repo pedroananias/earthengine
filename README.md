@@ -3,6 +3,18 @@
 
 Informações sobre o uso da plataforma Google Earth Engine através da linguagem Python com exemplos explicados em notebooks Jupyter.
 
+# Anaconda (Jupyter Notebook - Créditos: Prof. Rogério Galente Negri)
+
+Suíte gratuita que fornece uma série de ferramentas dedicadas às áreas do Aprendizado de Máquina e Ciência de Dados, além de uso geral
+
+- Fazer download da ferramenta em: https://www.anaconda.com/distribution
+
+Porque usar?
+
+- Acesso ao Python
+- Acesso à ambientes de desenvolvimento (Jupyther, Visual Studio Code, Spyder, Spyder, PyCharm, etc.)
+- Acesso à centenas de bibliotecas/módulos (mais de 1400), dentre eles: Numpy, Matplotlib, SciPy, Scikit-Learn, Pandas e TensorFlow
+
 # Configuração do ambiente em Python
 
 Deve-se instalar as bibliotecas de desenvolvimento necessárias. São sugeridas as seguintes: (Note que a nomenclatura do comando será a mesma para a instalação de qualquer outro pacote que desejar)
