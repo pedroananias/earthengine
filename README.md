@@ -1,7 +1,7 @@
 # Google Earth Engine (GEE) API for Python: Introdução
 # Versão 0.0.1
 
-Informações sobre o uso da plataforma Google Earth Engine através da linguagem Python com exemplos explicados em notebooks Jupyter.
+Informações sobre o uso da plataforma Google Earth Engine através da linguagem Python com exemplos explicados em notebooks Jupyter. Reforçamos que os exemplos apresentados neste documento e em seus notebooks foram desenvolvidos com foco em ambientes áquaticos, mas podem ser adaptados para qualquer finalidade.
 
 # Anaconda (Jupyter Notebook - Créditos: Prof. Rogério Galante Negri)
 
