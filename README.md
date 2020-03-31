@@ -3,6 +3,7 @@
 
 Informações sobre o uso da plataforma Google Earth Engine através da linguagem Python com exemplos explicados em notebooks Jupyter. Reforçamos que os exemplos apresentados neste documento e em seus notebooks foram desenvolvidos com foco em ambientes áquaticos, mas podem ser adaptados para qualquer finalidade.
 
+
 # Anaconda (Jupyter Notebook - Créditos: Prof. Rogério Galante Negri)
 
 Suíte gratuita que fornece uma série de ferramentas dedicadas às áreas do Aprendizado de Máquina e Ciência de Dados, além de uso geral
@@ -14,6 +15,7 @@ Porque usar?
 - Acesso ao Python
 - Acesso à ambientes de desenvolvimento (Jupyther, Visual Studio Code, Spyder, Spyder, PyCharm, etc.)
 - Acesso à centenas de bibliotecas/módulos (mais de 1400), dentre eles: Numpy, Matplotlib, SciPy, Scikit-Learn, Pandas e TensorFlow
+
 
 # Configuração do ambiente em Python
 
@@ -30,6 +32,7 @@ Deve-se instalar as bibliotecas de desenvolvimento necessárias. São sugeridas 
 9.  Natsort - Classificar listas "naturalmente" (https://pypi.org/project/natsort): `python -m pip install natsort`
 10. Geojson - Codificando e decodificando dados no formato GeoJSON (https://pypi.org/project/geojson): `python -m pip install geojson`
 
+
 # Instalação multipacotes
 
 É possível instalar todos os pacotes acima de uma única vez:
@@ -38,19 +41,23 @@ Deve-se instalar as bibliotecas de desenvolvimento necessárias. São sugeridas 
 
 Existem outras bibliotecas que são sugeridas ao longo do desenvolvimento e serão tratadas nos algoritmos apresentados, mas fazem parte do 'coração' do Python, portanto, não precisam ser instaladas.
 
+
 # Softwares para desenvolvimento em Python
 
 Abaixo, são listados alguns softwares/ferramentas/IDEs disponíveis para o desenvolvimento em Python:
 
-1.  Microsoft Visual Studio Code - Em minha opinião, excelente! Gratuíto e com grande varidade de extensões (https://code.visualstudio.com)
-2.  PyCharm (https://www.jetbrains.com/pycharm)
-3.  Atom (https://atom.io/packages/ide-python)
-4.  Google Colab - Um Jupyter Notebook na nuvem! *Necessita conta @unesp.br ou @gmail.com (https://colab.research.google.com)
-5.  E tantos outros...um para cada gosto!
+1.  Jupyter Notebook - Prático e didático! Acompanha a distribuição Ananconda (https://jupyter.org)
+2.  Microsoft Visual Studio Code - Em minha opinião, excelente! Gratuíto e com grande varidade de extensões (https://code.visualstudio.com)
+3.  PyCharm (https://www.jetbrains.com/pycharm)
+4.  Atom (https://atom.io/packages/ide-python)
+5.  Google Colab - Um Jupyter Notebook na nuvem! *Necessita conta @unesp.br ou @gmail.com (https://colab.research.google.com)
+
+E tantos outros...um para cada gosto!
+
 
 # Etapas deste documento e seus arquivos
 
-Orgizamos este documento e seus arquivos da seguinte forma, seguindo a ordem em que seja possível realizar, desde a conexão com o GEE, até a extração de uma imagem e sua classificação usando machine learning/deep learning.
+Orgizamos este documento da seguinte forma, iniciando a conexão com o GEE, até a extração de uma imagem e sua classificação usando machine learning/deep learning.
 
 1.  Primeira conexão com o Google Earth Engine API
 2.  Gravando dados em um arquivo de log com a biblioteca 'logging'
