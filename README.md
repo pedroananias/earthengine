@@ -24,6 +24,18 @@ Deve-se instalar as bibliotecas de desenvolvimento necessárias. São sugeridas 
 
 `python -m pip install earthengine-api matplotlib pandas numpy requests pillow sklearn scipy natsort geojson`
 
-# Informações
-
 Existem outras bibliotecas que são sugeridas ao longo do desenvolvimento e serão tratadas nos algoritmos apresentados, mas fazem parte do 'coração' do Python, portanto, não precisam ser instaladas.
+
+# Softwares para desenvolvimento em Python
+
+Abaixo, são listados alguns softwares/ferramentas/IDEs disponíveis para o desenvolvimento em Python:
+
+1.  Microsoft Visual Studio Code - Em minha opinião, excelente! Gratuíto e com grande varidade de extensões (https://code.visualstudio.com)
+2.  PyCharm (https://www.jetbrains.com/pycharm)
+3.  Atom (https://atom.io/packages/ide-python)
+4.  Google Colab - Um Jupyter Notebook na nuvem! *Necessita conta @unesp.br ou @gmail.com (https://colab.research.google.com)
+5.  E tantos outros...um para cada gosto!
+
+# Indíce dos Notebooks
+
+Os seguintes notebooks são apresentados 
