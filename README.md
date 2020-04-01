@@ -30,7 +30,7 @@ Deve-se instalar as bibliotecas de desenvolvimento necessárias. São sugeridas 
 7.  Scikit-learn - Aprendizado de máquina de código aberto (https://scikit-learn.org): `python -m pip install sklearn`
 8.  Scipy - Feita para matemáticos, cientistas e engenheiros (https://www.scipy.org): `python -m pip install scipy`
 9.  Natsort - Classificar listas "naturalmente" (https://pypi.org/project/natsort): `python -m pip install natsort`
-10. Geojson - Codificando e decodificando dados no formato GeoJSON (https://pypi.org/project/geojson): `python -m pip install geojson`
+10. GeoJSON - Codificando e decodificando dados no formato GeoJSON (https://pypi.org/project/geojson): `python -m pip install geojson`
 
 
 # Instalação multipacotes
@@ -68,3 +68,5 @@ Orgizamos este documento da seguinte forma, iniciando a conexão com o GEE, até
 7.  Extraindo uma imagem PNG do GEE com o Pillow
 8.  Transformando uma imagem do GEE em um Dataframe utilizando Reduce Region, Numpy e Pandas
 9.  Aplicando um classificador Random Forest em uma imagem e plotando o resultado com o Matplotlib
+10. Aplicando um classificador Multi-layer Perceptron em uma imagem e plotando o resultado com o Matplotlib
+11. Salvando os pixeis classificados em um geojson com o a biblioteca GeoJSON
