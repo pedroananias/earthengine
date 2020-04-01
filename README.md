@@ -70,3 +70,4 @@ Orgizamos este documento da seguinte forma, iniciando a conexão com o GEE, até
 9.  Aplicando um classificador Random Forest em uma imagem e plotando o resultado com o Matplotlib
 10. Aplicando um classificador Multi-layer Perceptron em uma imagem e plotando o resultado com o Matplotlib
 11. Salvando os pixeis classificados em um geojson com o a biblioteca GeoJSON
+12. Salvando um imagem do GEE em GeoTIFF (separado por bandas)
